@@ -1,3 +1,14 @@
+---
+page_type: sample
+languages:
+- javasript
+- html
+products:
+- azure
+description: "A Mongo + Express + React + Node.js Todo list demonstrating how to instrument your application (and Node.js backend) with Application Insights."
+urlFragment: applicationinsights-mern-todo
+---
+
 # MERN Stack Application Insights Todo Demo
 A Mongo + Express + React + Node.js Todo list demonstrating how to instrument your application (and Node.js backend) with Application Insights. Originally cloned from https://github.com/seeschweiler/mern-stack-part-04
 
